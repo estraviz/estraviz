@@ -14,4 +14,7 @@ I'm interested in all things Software Engineering, [Machine Learning, and Data S
   <a class="header-badge" target="_blank" href="https://github.com/estraviz">
       <img alt="Github Follow" src="https://img.shields.io/github/followers/estraviz?label=follow&style=social">
   </a>
+  <a class="header-badge" target="_blank" href="https://www.codewars.com/users/estraviz">
+      <img alt="Codewars badge" src="https://www.codewars.com/users/estraviz/badges/micro">
+  </a>
 </div>
