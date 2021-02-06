@@ -4,8 +4,6 @@ My name is **Javier Estraviz** and I'm a **Data Engineer**, currently working at
 
 I'm interested in all things Software Engineering, [Machine Learning, and Data Science](https://github.com/estraviz/data-science-roadmap) related.
 
-Some links to connect with me:
-
 <div>
   <a class="header-badge" target="_blank" href="https://twitter.com/estraviz">
       <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/estraviz?style=social">
