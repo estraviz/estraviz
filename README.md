@@ -6,7 +6,7 @@ I'm interested in all things Software Engineering, [Machine Learning, and Data S
 
 <div>
   <a class="header-badge" target="_blank" href="https://thedataisflat.com/">
-      <img alt="Twitter Follow" src="https://img.shields.io/badge/--website?label=Blog:%20thedataisflat.com&logo=awesome-lists&style=social&logoColor=2257ea">
+      <img alt="Twitter Follow" src="https://img.shields.io/badge/--website?label=Blog:%20TheDataIsFlat.com&logo=awesome-lists&style=social&logoColor=2257ea">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/estraviz">
       <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/estraviz?style=social">
