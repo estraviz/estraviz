@@ -1,6 +1,6 @@
 ## Hi Internet 🖖
 
-My name is **Javier Estraviz** and I'm a **Data Engineer**, currently working at [@Lookiero](https://lookiero.com/). 
+My name is **Javier Estraviz** and I'm a **Data Engineer**, currently working at [Frontiers](https://www.frontiersin.org/). 
 
 I'm interested in all things Software Engineering, [Machine Learning, and Data Science](https://github.com/estraviz/data-science-roadmap) related.
 
