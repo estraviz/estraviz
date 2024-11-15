@@ -8,7 +8,11 @@ I am interested in all things related to Data Engineering and Distributed System
   <p>
     <img align="center" alt="Javier Estraviz | Stats" src="https://github-readme-stats.vercel.app/api?username=estraviz&show_icons=true&theme=dracula"/>
   </p>
-
+  
+  <p>
+    <img align="center" alt="Most Used Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=estraviz&hide=html,scss,stylus,blade,jupyter%20notebook,CSS,haskell,javascript&show_icons=true&theme=dracula"/>
+  </p>
+  
   <p>
     <a class="header-badge" target="_blank" href="https://thedataisflat.com/">
         <img alt="Twitter Follow" src="https://img.shields.io/badge/--website?label=Blog:%20TheDataIsFlat.com&logo=awesome-lists&style=social&logoColor=2257ea">
