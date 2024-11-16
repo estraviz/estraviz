@@ -18,7 +18,7 @@ I am interested in all things related to Data Engineering and Distributed System
         <img alt="Github Follow" src="https://img.shields.io/github/followers/estraviz?label=follow&style=social">
     </a>
     <a class="header-badge" target="_blank" href="https://thedataisflat.com/">
-        <img alt="Twitter Follow" src="https://img.shields.io/badge/--website?label=TheDataIsFlat.com&logo=awesome-lists&style=social&logoColor=2257ea">
+        <img alt="Twitter Follow" src="https://img.shields.io/badge/--website?label=blog&logo=awesome-lists&style=social&logoColor=2257ea">
     </a>
     <a class="header-badge" target="_blank" href="https://twitter.com/estraviz">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/estraviz?style=social&logoColor=0285FF">
