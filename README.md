@@ -11,23 +11,11 @@ I am interested in all things related to Data Engineering and Distributed System
   </p>
   
   <p>
-    <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/javierestraviz/">
-        <img alt="LinkedIn Follow" src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social&logoColor=0285FF">
-    </a>
-    <a class="header-badge" target="_blank" href="https://github.com/estraviz">
-        <img alt="Github Follow" src="https://img.shields.io/github/followers/estraviz?label=follow&style=social">
-    </a>
-    <a class="header-badge" target="_blank" href="https://thedataisflat.com/">
-        <img alt="Twitter Follow" src="https://img.shields.io/badge/--website?label=blog&logo=awesome-lists&style=social&logoColor=2257ea">
-    </a>
-    <a class="header-badge" target="_blank" href="https://twitter.com/estraviz">
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/estraviz?style=social&logoColor=0285FF">
-    </a>
-    <a class="header-badge" target="_blank" href="https://estraviz.bsky.social">
-        <img alt="Bluesky Follow" src="https://img.shields.io/badge/style--0285FF.svg?label=@estraviz.bsky.social&logo=bluesky&style=social&logoColor=0285FF">
-    </a>
-    <a class="header-badge" target="_blank" href="https://www.codewars.com/users/estraviz">
-        <img alt="Codewars Follow" src="https://www.codewars.com/users/estraviz/badges/micro">
-    </a>
+    <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/javierestraviz/"><img alt="LinkedIn Follow" src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social&logoColor=0285FF"></a>
+    <a class="header-badge" target="_blank" href="https://github.com/estraviz"><img alt="Github Follow" src="https://img.shields.io/github/followers/estraviz?label=follow&style=social"></a>
+    <a class="header-badge" target="_blank" href="https://thedataisflat.com/"><img alt="Twitter Follow" src="https://img.shields.io/badge/--website?label=blog&logo=awesome-lists&style=social&logoColor=2257ea"></a>
+    <a class="header-badge" target="_blank" href="https://twitter.com/estraviz"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/estraviz?style=social&logoColor=0285FF"></a>
+    <a class="header-badge" target="_blank" href="https://estraviz.bsky.social"><img alt="Bluesky Follow" src="https://img.shields.io/badge/style--0285FF.svg?label=@estraviz.bsky.social&logo=bluesky&style=social&logoColor=0285FF"></a>
+    <a class="header-badge" target="_blank" href="https://www.codewars.com/users/estraviz"><img alt="Codewars Follow" src="https://www.codewars.com/users/estraviz/badges/micro"></a>
   </p>
 </div>
