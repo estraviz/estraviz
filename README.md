@@ -2,7 +2,7 @@
 
 My name is **Javier Estraviz** and I'm a **Data Engineer**, currently working at [Frontiers](https://www.frontiersin.org/), the 3rd most-cited and 6th largest research publisher and open science platform.
 
-I am interested in everything related to Data Engineering and Distributed Systems, as well as well-designed and cleanly implemented software.
+I am interested in everything related to Data Engineering, distributed Systems, and well-designed and cleanly implemented software.
 
 <div align="center">
 
