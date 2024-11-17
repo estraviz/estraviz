@@ -7,7 +7,7 @@ I am interested in everything related to Data Engineering, distributed Systems, 
 <div align="center">
 
   <p>
-    <a href="https://github.com/estraviz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=estraviz&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Javier Estraviz | Stats" /></a> <a href="https://github.com/estraviz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estraviz&hide=html,scss,stylus,blade,jupyter%20notebook,CSS,javascript&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages" /></a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=estraviz&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Javier Estraviz | Stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estraviz&hide=html,scss,stylus,blade,jupyter%20notebook,CSS,javascript&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages" />
   </p>
   
   <p>
